@@ -1,0 +1,223 @@
+(footprint "DFN-8_L3.0-W2.0-P0.50-BL-EP1.6"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -5.45 0)
+		(layer "F.SilkS")
+		(uuid "f79070f3-8b29-40e0-9168-0e3a35def752")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "DFN-8_L3.0-W2.0-P0.50-BL-EP1.6"
+		(at 0 5.45 0)
+		(layer "F.Fab")
+		(uuid "52a96d82-be32-488e-b207-1a59b6b4f72c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "71dbe4b7-b381-41d8-873e-e05ead7be705")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b8bae2f9-54ba-4f7d-80e8-4dd052936099")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.14 -1.52)
+		(end -1.14 1.53)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "de93c3a6-8464-4b2d-a0ed-f9feb24a133d")
+	)
+	(fp_line
+		(start -1.14 1.53)
+		(end -1.13 1.53)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e9aa2e6f-6b38-4a2c-bc10-68bb0109c532")
+	)
+	(fp_line
+		(start -1.13 -1.52)
+		(end -1.14 -1.52)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0672b5c9-be0f-4fae-86d7-04618b7319ae")
+	)
+	(fp_line
+		(start 1.13 1.53)
+		(end 1.14 1.53)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7deb6cda-ef9a-458d-ba92-4192a8c3a3b3")
+	)
+	(fp_line
+		(start 1.14 -1.52)
+		(end 1.13 -1.52)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d708f49c-a456-4d7e-8332-ba57a028aa6a")
+	)
+	(fp_line
+		(start 1.14 1.53)
+		(end 1.14 -1.52)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8f31d7ae-91d8-4812-9f62-5455dfa85384")
+	)
+	(fp_circle
+		(center -1.3 1.8)
+		(end -1.24 1.8)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "a2c9a493-1d54-4b66-9776-7b4a1789e5bd")
+	)
+	(fp_circle
+		(center -0.89 1.73)
+		(end -0.79 1.73)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "Cmts.User")
+		(uuid "5524cad4-262b-449e-a8a0-1a1958cc2db5")
+	)
+	(fp_circle
+		(center -1 1.5)
+		(end -0.97 1.5)
+		(stroke
+			(width 0.06)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "911f220a-df72-43ed-ba21-634a1b330f5a")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "1451bd3f-c35d-401c-88ae-333040bccf33")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -0.75 1.45)
+		(size 0.3 0.75)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "2b090f19-875c-4944-afbf-2dc0d6223541")
+	)
+	(pad "2" smd rect
+		(at -0.25 1.45)
+		(size 0.3 0.75)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "4ed41183-0a82-49d5-923d-e1e63d094d66")
+	)
+	(pad "3" smd rect
+		(at 0.25 1.45)
+		(size 0.3 0.75)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "d65f83cf-e333-4a04-a16d-3f55964485a2")
+	)
+	(pad "4" smd rect
+		(at 0.75 1.45)
+		(size 0.3 0.75)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "02f84344-6f74-4216-ad01-39458c08b464")
+	)
+	(pad "5" smd rect
+		(at 0.75 -1.45)
+		(size 0.3 0.75)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "fb491367-a9c4-4e2e-aa9e-740769b2bddf")
+	)
+	(pad "6" smd rect
+		(at 0.25 -1.45)
+		(size 0.3 0.75)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "925fa16b-1638-49f7-9841-1b8c952daaf3")
+	)
+	(pad "7" smd rect
+		(at -0.25 -1.45)
+		(size 0.3 0.75)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "3c03f7c6-20e7-49e4-bed0-66ca7ad84964")
+	)
+	(pad "8" smd rect
+		(at -0.75 -1.45)
+		(size 0.3 0.75)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "6656a1ee-e06c-4912-8246-778245f15893")
+	)
+	(pad "9" smd rect
+		(at 0 0)
+		(size 1.5 1.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "6289a5c3-a846-40cc-93e1-e530ab9668e3")
+	)
+	(embedded_fonts no)
+	(model "./../prop-devboard.3dshapes/DFN-8_L3.0-W2.0-P0.50-BL-EP1.6.wrl"
+		(offset
+			(xyz 0 -0 -0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
