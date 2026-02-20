@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "prop-devboard")(type "KiCad")(uri "${KIPRJMOD}/libraries/prop-devboard/prop-devboard.kicad_sym")(options "")(descr "Devboard-specific Symbols"))
+)

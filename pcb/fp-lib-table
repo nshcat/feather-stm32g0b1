@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "prop-devboard")(type "KiCad")(uri "${KIPRJMOD}/libraries/prop-devboard/prop-devboard.pretty")(options "")(descr "Devboard-specific Footprints"))
+)

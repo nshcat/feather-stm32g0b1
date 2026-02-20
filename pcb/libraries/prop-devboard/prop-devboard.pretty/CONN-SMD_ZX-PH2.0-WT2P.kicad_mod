@@ -1,0 +1,253 @@
+(footprint "CONN-SMD_ZX-PH2.0-WT2P"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -6.85 0)
+		(layer "F.SilkS")
+		(uuid "535db2a7-2bb3-4b58-8b8e-ccbba6b057f4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "CONN-SMD_ZX-PH2.0-WT2P"
+		(at 0 6.85 0)
+		(layer "F.Fab")
+		(uuid "5766d776-c797-4d32-b977-4969af6fd331")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "73977230-7d8f-4c1e-93af-8257c4898ca7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "aede4413-81f6-4d7a-979c-41b47d98e13b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -4.02 -3.14)
+		(end -3.13 -3.14)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "dc36ef9d-0dbe-4f3a-ace0-9ea056d5e089")
+	)
+	(fp_line
+		(start -4.02 0.52)
+		(end -4.02 -3.14)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "48963c8c-111c-49a1-ac2d-a5dd9575f831")
+	)
+	(fp_line
+		(start -4.02 0.86)
+		(end -4.02 0.52)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "91862927-ba53-4426-9946-917bc90d6907")
+	)
+	(fp_line
+		(start -3.13 -3.14)
+		(end -3.13 -1.74)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e6fc04c5-7fa5-445e-bcd9-12d01c267794")
+	)
+	(fp_line
+		(start -3.13 -1.74)
+		(end -1.73 -1.74)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f1f5d89f-323b-491e-b30c-58523dae7af1")
+	)
+	(fp_line
+		(start -0.27 -1.74)
+		(end 0.27 -1.74)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b64c936d-e6fd-4d69-92e9-ee86e636e7d8")
+	)
+	(fp_line
+		(start 1.73 -1.74)
+		(end 3.13 -1.74)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d8727d70-1a0e-4942-8ebe-ea46efaab1c3")
+	)
+	(fp_line
+		(start 2.42 4.44)
+		(end -2.42 4.44)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3855c8f0-e725-42e2-96a5-43df3bbfe547")
+	)
+	(fp_line
+		(start 3.13 -3.14)
+		(end 4.01 -3.14)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6c35eaa8-8d3f-4d2d-81ad-e052551f9f14")
+	)
+	(fp_line
+		(start 3.13 -1.74)
+		(end 3.13 -3.14)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "53cf3841-1137-4462-b413-ff982af222fa")
+	)
+	(fp_line
+		(start 4.01 -3.14)
+		(end 4.01 0.52)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "db9d3b26-42fc-487e-b671-18967f57b2fd")
+	)
+	(fp_line
+		(start 4.01 0.52)
+		(end 4.01 0.86)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5bbf87ab-39f2-4b91-88ef-3e1c0bf23472")
+	)
+	(fp_circle
+		(center -2.24 -3.39)
+		(end -2.04 -3.39)
+		(stroke
+			(width 0.4)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "3f7e6d57-20e1-4c89-a154-e47b4ad4d517")
+	)
+	(fp_circle
+		(center -2.24 -3.39)
+		(end -2.04 -3.39)
+		(stroke
+			(width 0.4)
+			(type solid)
+		)
+		(fill no)
+		(layer "Cmts.User")
+		(uuid "a8310414-c8c0-46ed-a502-a4a8d85448ed")
+	)
+	(fp_circle
+		(center -4 -4.05)
+		(end -3.97 -4.05)
+		(stroke
+			(width 0.06)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "6de385e0-de8a-43f1-a9c6-355b8de9e1b7")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "b5871fdc-c3f4-49f9-bce1-25f991c9c2db")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1 -2.85)
+		(size 1 3.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "8769cf3b-5517-404e-b93b-72337b2658df")
+	)
+	(pad "2" smd rect
+		(at 1 -2.85)
+		(size 1 3.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "2e5df124-7a0d-44fb-8445-5e3553ff6790")
+	)
+	(pad "3" smd rect
+		(at -3.4 2.85)
+		(size 1.5 3.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "8d57c688-5eb5-4956-a5c6-2561b8fd1a3c")
+	)
+	(pad "4" smd rect
+		(at 3.4 2.85)
+		(size 1.5 3.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "bd85c3fd-568e-4744-81c5-2eec112a754f")
+	)
+	(embedded_fonts no)
+	(model "./../prop-devboard.3dshapes/CONN-SMD_ZX-PH2.0-WT2P.wrl"
+		(offset
+			(xyz -0 -0.74 5.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)
