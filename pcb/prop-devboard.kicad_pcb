@@ -132062,7 +132062,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "Feather STM32G0B1\nCommunity Feather"
+	(gr_text "Feather STM32G0B1 Rev. A\nCommunity Feather"
 		(at 147.8 89.1 0)
 		(layer "B.SilkS")
 		(uuid "27bfad02-6175-4d08-ba72-bc9ae7aa7575")
