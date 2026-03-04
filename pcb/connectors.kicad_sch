@@ -2790,7 +2790,7 @@
 			)
 		)
 	)
-	(global_label "BOOT0"
+	(global_label "SWCLK{slash}BOOT0"
 		(shape output)
 		(at 44.45 64.77 0)
 		(fields_autoplaced yes)
@@ -2802,7 +2802,7 @@
 		)
 		(uuid "69ecea1f-4b83-4c9c-a499-630d55f622e0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 53.5433 64.77 0)
+			(at 61.1028 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2878,7 +2878,7 @@
 			)
 		)
 	)
-	(global_label "SWCLK"
+	(global_label "SWCLK{slash}BOOT0"
 		(shape output)
 		(at 105.41 102.87 0)
 		(fields_autoplaced yes)
@@ -2890,7 +2890,7 @@
 		)
 		(uuid "8d3b69f5-aa93-469c-bc00-6bab47b3d9b0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 114.6242 102.87 0)
+			(at 122.0628 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
