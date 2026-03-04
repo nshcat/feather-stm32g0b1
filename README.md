@@ -17,6 +17,8 @@ A STM32G0B1-based development board meant for prop making, inspired by Adafruits
 
 ![Image of the board layout in PcbNew](img/pcb_layout.png "Board Layout")
 
-![Image of the board in the 3d viewer without components](img/pcb_3d_1.png "Board 3D View")
+![Image of the board bottom side in the 3d viewer without components](img/pcb_3d_3.png "Board 3D View \(bottom\)")
 
-![Image of the board in the 3d viewer with components](img/pcb_3d_2.png "Board 3D View \(assembled\)")
+![Image of the board top side in the 3d viewer without components](img/pcb_3d_1.png "Board 3D View \(top\)")
+
+![Image of the board top the 3d viewer with components](img/pcb_3d_2.png "Board 3D View \(top, assembled\)")
