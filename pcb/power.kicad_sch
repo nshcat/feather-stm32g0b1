@@ -3639,16 +3639,6 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 76.2) (xy 236.22 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "02588d2c-18e2-4510-beb5-f3f90e7a123e")
-	)
-	(wire
-		(pts
 			(xy 190.5 129.54) (xy 203.2 129.54)
 		)
 		(stroke
@@ -3929,6 +3919,16 @@
 	)
 	(wire
 		(pts
+			(xy 234.95 69.85) (xy 234.95 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ced9908-2c0e-4d1a-887f-8049cada50e0")
+	)
+	(wire
+		(pts
 			(xy 88.9 125.73) (xy 88.9 140.97)
 		)
 		(stroke
@@ -4036,6 +4036,16 @@
 			(type default)
 		)
 		(uuid "627667e2-a4b6-4f6e-9866-62b384ef47bc")
+	)
+	(wire
+		(pts
+			(xy 234.95 78.74) (xy 237.49 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6576cad4-4548-42df-be31-db57d2ed31a7")
 	)
 	(wire
 		(pts
@@ -4149,16 +4159,6 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 78.74) (xy 236.22 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "86000d4c-69f9-4e72-a0a4-279f1d1ceeb7")
-	)
-	(wire
-		(pts
 			(xy 146.05 116.84) (xy 146.05 123.19)
 		)
 		(stroke
@@ -4249,7 +4249,7 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 78.74) (xy 236.22 85.09)
+			(xy 233.68 76.2) (xy 233.68 85.09)
 		)
 		(stroke
 			(width 0)
@@ -4469,6 +4469,16 @@
 	)
 	(wire
 		(pts
+			(xy 237.49 76.2) (xy 233.68 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d015bfdf-3b23-48ff-b577-939fa7ea7a92")
+	)
+	(wire
+		(pts
 			(xy 165.1 76.2) (xy 171.45 76.2)
 		)
 		(stroke
@@ -4556,16 +4566,6 @@
 			(type default)
 		)
 		(uuid "ec679511-452a-49ee-be6a-32086f65bebd")
-	)
-	(wire
-		(pts
-			(xy 237.49 76.2) (xy 236.22 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ef5182fa-8718-49ef-b4d1-3c40d4194573")
 	)
 	(wire
 		(pts
@@ -5646,7 +5646,7 @@
 	)
 	(symbol
 		(lib_id "power:VBUS")
-		(at 236.22 69.85 0)
+		(at 234.95 69.85 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5655,7 +5655,7 @@
 		(fields_autoplaced yes)
 		(uuid "60aefdbd-dacd-47a8-99fc-df47933f8500")
 		(property "Reference" "#PWR017"
-			(at 236.22 73.66 0)
+			(at 234.95 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5664,7 +5664,7 @@
 			)
 		)
 		(property "Value" "VBAT"
-			(at 236.22 64.77 0)
+			(at 234.95 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5672,7 +5672,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 236.22 69.85 0)
+			(at 234.95 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5681,7 +5681,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 236.22 69.85 0)
+			(at 234.95 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5690,7 +5690,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VBUS\""
-			(at 236.22 69.85 0)
+			(at 234.95 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7971,7 +7971,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 236.22 85.09 0)
+		(at 233.68 85.09 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7980,7 +7980,7 @@
 		(fields_autoplaced yes)
 		(uuid "fa64194e-e61d-431e-8304-5d4b6b5a0ef1")
 		(property "Reference" "#PWR015"
-			(at 236.22 91.44 0)
+			(at 233.68 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7989,7 +7989,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 236.22 90.17 0)
+			(at 233.68 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7997,7 +7997,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 236.22 85.09 0)
+			(at 233.68 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8006,7 +8006,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 236.22 85.09 0)
+			(at 233.68 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8015,7 +8015,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 236.22 85.09 0)
+			(at 233.68 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
