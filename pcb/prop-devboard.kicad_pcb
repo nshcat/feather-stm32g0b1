@@ -368,7 +368,7 @@
 		(uuid "0d4d8d51-cb6b-4fdc-917a-f446e6b8698d")
 		(at 147.66 87.1 90)
 		(property "Reference" "CN2"
-			(at 3.5 -1.5 180)
+			(at 2.65 -2.31 270)
 			(layer "F.SilkS")
 			(uuid "1c672341-da12-47d2-9096-0ff5421dba42")
 			(effects
@@ -3203,7 +3203,7 @@
 		(uuid "5569ce9b-e3b4-438a-b152-29b3f0769d1f")
 		(at 147.66 94.6 90)
 		(property "Reference" "CN4"
-			(at 3.6 -1.5 0)
+			(at 2.7 -2.31 90)
 			(layer "F.SilkS")
 			(uuid "e382a6fc-c59c-4f7b-adce-7101860a0abe")
 			(effects
@@ -4262,13 +4262,13 @@
 		(descr "LQFP, 48 Pin (JEDEC MS-026 variation BBC, 1.40mm body thickness, https://www.jedec.org/document_search?search_api_views_fulltext=MS-026, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-lqfp/05081760_a_lx48.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "LQFP QFP CASE-932AA CASE-932-03 C48-1 C48-2 C48-3 C48-5 C48-6 C48-6C PT0048A")
 		(property "Reference" "U1"
-			(at 0 -5.85 45)
+			(at 0 -5.586144 45)
 			(layer "F.SilkS")
 			(uuid "5aceba02-938b-4243-8927-0aecce3bd54c")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.5 0.5)
+					(thickness 0.125)
 				)
 			)
 		)
@@ -72611,13 +72611,14 @@
 			)
 		)
 		(property "Label" "SWD"
-			(at 5.5 0 0)
+			(at 5.19 0.02 0)
 			(layer "F.SilkS")
 			(uuid "20c9b6e5-72d7-4b0c-b2d0-cdec171b88cf")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.75 0.75)
+					(thickness 0.1875)
+					(bold yes)
 				)
 			)
 		)
@@ -134656,6 +134657,45 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "+"
+		(at 112.9 89.15 0)
+		(layer "F.SilkS")
+		(uuid "402164f9-f3e7-4a05-8177-a5e296e13eee")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.1875)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "I2C2"
+		(at 145.75 91.3 0)
+		(layer "F.SilkS")
+		(uuid "75f39ef2-c57f-47d9-8c55-db3957891aad")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.125)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "I2C1"
+		(at 145.75 83.8 0)
+		(layer "F.SilkS")
+		(uuid "8dd67b08-ad54-4c05-81af-7df24fb9b1c5")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.125)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "RESET"
 		(at 136.4 95.3 0)
 		(layer "F.SilkS")
@@ -134677,6 +134717,32 @@
 			(font
 				(size 0.75 0.75)
 				(thickness 0.1875)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "I2C3"
+		(at 142.5 83.75 0)
+		(layer "F.SilkS")
+		(uuid "c8c92407-e009-4e28-876a-dbda91d39260")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.125)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "SPI2"
+		(at 133.45 98.7 0)
+		(layer "F.SilkS")
+		(uuid "d8a21859-effe-46f6-9a53-5f0d0f596a0c")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.125)
 				(bold yes)
 			)
 			(justify left bottom)
