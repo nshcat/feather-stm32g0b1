@@ -134710,7 +134710,7 @@
 		)
 	)
 	(gr_text "CHRG"
-		(at 100.2 97.5 0)
+		(at 100.35 97.5 0)
 		(layer "F.SilkS")
 		(uuid "9f0cc632-f1e0-4ccf-8614-f9d34f99539f")
 		(effects
@@ -134761,7 +134761,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "Feather STM32G0B1 Rev. A\nCommunity Feather"
+	(gr_text "Feather STM32G0B1 Rev. B\nCommunity Feather"
 		(at 147.8 89.1 0)
 		(layer "B.SilkS")
 		(uuid "27bfad02-6175-4d08-ba72-bc9ae7aa7575")
