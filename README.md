@@ -2,7 +2,7 @@
 
 A STM32G0B1-based development board meant for prop making, inspired by Adafruits Feather series of boards
 
-## Features
+## Features 
 * Compatible with most (if not all!) Feather Wing addon boards
 * Two independant QWIIC ports, connected to `I2C1` and `I2C2`, respectively
 * +3V3 power supply that can deliver 500mA of power
