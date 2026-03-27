@@ -138,8 +138,8 @@
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.3,
         "min_track_width": 0.12,
-        "min_via_annular_width": 0.2,
-        "min_via_diameter": 0.6,
+        "min_via_annular_width": 0.15,
+        "min_via_diameter": 0.4,
         "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
@@ -226,6 +226,10 @@
         {
           "diameter": 0.0,
           "drill": 0.0
+        },
+        {
+          "diameter": 0.6,
+          "drill": 0.3
         },
         {
           "diameter": 0.7,
@@ -483,7 +487,7 @@
     ]
   },
   "meta": {
-    "filename": "prop-devboard.kicad_pro",
+    "filename": "feather-stm32g0b1.kicad_pro",
     "version": 3
   },
   "net_settings": {
