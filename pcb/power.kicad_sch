@@ -5309,7 +5309,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "10uF"
 			(at 125.73 133.3499 0)
 			(effects
 				(font
@@ -5345,7 +5345,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C14445"
+		(property "LCSC Part #" "C15525"
 			(at 121.92 132.08 0)
 			(effects
 				(font
@@ -7615,7 +7615,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C60491"
+		(property "LCSC Part #" "C25741"
 			(at 46.99 130.81 0)
 			(effects
 				(font
