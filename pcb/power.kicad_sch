@@ -8063,7 +8063,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "prop-devboard:CONN-SMD_ZX-PH2.0-WT2P"
+		(property "Footprint" "prop-devboard:CONN-SMD_PH-2AWT"
 			(at 241.3 63.5 0)
 			(effects
 				(font
@@ -8090,8 +8090,17 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C7429689"
+		(property "LCSC Part" "C19633668"
 			(at 241.3 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 241.3 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)

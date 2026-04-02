@@ -3346,8 +3346,17 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C160404"
+		(property "LCSC Part" "C19270571"
 			(at 163.83 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 154.94 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3516,8 +3525,17 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C160404"
+		(property "LCSC Part" "C19270571"
 			(at 219.71 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 210.82 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
