@@ -3729,6 +3729,16 @@
 	)
 	(wire
 		(pts
+			(xy 62.23 67.31) (xy 74.93 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "162f3c23-7873-4a87-956d-30938d174070")
+	)
+	(wire
+		(pts
 			(xy 154.94 116.84) (xy 154.94 129.54)
 		)
 		(stroke
@@ -3936,16 +3946,6 @@
 			(type default)
 		)
 		(uuid "4dd57b6a-82f9-4678-96e8-ae9168fee963")
-	)
-	(wire
-		(pts
-			(xy 62.23 67.31) (xy 74.93 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4df30031-e631-4438-bd34-dd568122e7eb")
 	)
 	(wire
 		(pts
@@ -4627,6 +4627,26 @@
 		)
 		(uuid "fbaebd67-a274-41bd-994e-05fbc8c22927")
 	)
+	(label "USBC_DN"
+		(at 67.31 52.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3a5d910b-a39a-44f3-87ba-5f07e796a76e")
+	)
+	(label "USBC_DP"
+		(at 67.31 67.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "57fff1c6-10bb-4bc0-9793-4f96bcaa61ec")
+	)
 	(global_label "I2C3_SDA"
 		(shape bidirectional)
 		(at 209.55 73.66 0)
@@ -4715,7 +4735,7 @@
 			)
 		)
 	)
-	(global_label "USB_DM"
+	(global_label "USB_DN"
 		(shape input)
 		(at 107.95 52.07 0)
 		(fields_autoplaced yes)
@@ -4727,7 +4747,7 @@
 		)
 		(uuid "f8627ed8-6820-49a8-af07-4e9373e0293e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 118.4342 52.07 0)
+			(at 118.3133 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)

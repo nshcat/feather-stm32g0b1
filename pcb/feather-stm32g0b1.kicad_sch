@@ -4635,7 +4635,7 @@
 			)
 		)
 	)
-	(global_label "USB_DM"
+	(global_label "USB_DN"
 		(shape input)
 		(at 260.35 69.85 0)
 		(fields_autoplaced yes)
@@ -4647,7 +4647,7 @@
 		)
 		(uuid "e5f22200-833f-4866-ba3b-40a33e946601")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 270.8342 69.85 0)
+			(at 270.7133 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)

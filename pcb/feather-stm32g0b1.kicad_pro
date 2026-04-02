@@ -658,6 +658,10 @@
       {
         "netclass": "DIGITAL_SIGNAL",
         "pattern": "BOOT0"
+      },
+      {
+        "netclass": "SERIAL_BUS_SIGNAL",
+        "pattern": "*USB*"
       }
     ]
   },
