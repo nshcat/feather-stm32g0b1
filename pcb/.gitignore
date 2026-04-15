@@ -34,4 +34,5 @@ fp-info-cache
 production
 .\production
 \production
-
+.\.history
+.history
