@@ -7381,6 +7381,7 @@
 	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 123.19 40.64 0)
+		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7388,7 +7389,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "8fe58951-e71a-4799-ad82-1a8eee62d8db")
 		(property "Reference" "SW1"
 			(at 123.19 33.02 0)
@@ -7410,7 +7410,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_B3U-1000P"
+		(property "Footprint" "prop-devboard:WUERTH_434153017835"
 			(at 123.19 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -7443,7 +7443,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C231329"
+		(property "LCSC Part #" "C2680612"
 			(at 123.19 40.64 0)
 			(hide yes)
 			(show_name no)
