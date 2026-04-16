@@ -692,6 +692,10 @@
       {
         "netclass": "SERIAL_BUS_SIGNAL",
         "pattern": "*USB*"
+      },
+      {
+        "netclass": "DIGITAL_SIGNAL",
+        "pattern": "EEPROM_WE"
       }
     ]
   },
@@ -835,7 +839,7 @@
         "uuid": "7abe3e47-948c-4c3d-84e7-3a59f7cbe9b7"
       }
     ],
-    "used_designators": "D7",
+    "used_designators": "#PWR56-60,U5,C11,D7",
     "variants": []
   },
   "sheets": [
