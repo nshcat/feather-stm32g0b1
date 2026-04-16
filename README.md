@@ -12,13 +12,15 @@ A STM32G0B1-based development board meant for prop making, inspired by Adafruits
      * Battery level monitoring using `MAX17048G`
 * STDC14 programming header, compatible with STLINK-V3MINIE
 * Both HSE (8 MHz) and LSE (32.768 KHz) crystals
+* ST M24512-DF 512Kbit I2C EEPROM
 
 ## Images
 
-![Image of the board layout in PcbNew](img/pcb_layout.png "Board Layout")
+![Image of the board top the 3d viewer with components](img/pcb_3d_2.png "Board 3D View \(top, assembled\)")
 
-![Image of the board bottom side in the 3d viewer without components](img/pcb_3d_3.png "Board 3D View \(bottom\)")
+![Image of the board bottom side in the 3d viewer with components](img/pcb_3d_3.png "Board 3D View \(bottom\)")
 
 ![Image of the board top side in the 3d viewer without components](img/pcb_3d_1.png "Board 3D View \(top\)")
 
-![Image of the board top the 3d viewer with components](img/pcb_3d_2.png "Board 3D View \(top, assembled\)")
+![Image of the board layout in PcbNew](img/pcb_layout.png "Board Layout")
+
